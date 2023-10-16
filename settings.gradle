@@ -1,0 +1,3 @@
+rootProject.name = 'module-monolith'
+
+include 'application', 'user-module', ':product-module'
