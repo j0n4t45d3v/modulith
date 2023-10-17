@@ -14,4 +14,4 @@ java -jar application/build/libs/application-0.0.1-SNAPSHOT.jar
 ```
 ## Outras Implementações
 
-usando o maven: [branch]()
+usando o maven: [branch](https://github.com/j0n4t45d3v/modulith/tree/maven)
